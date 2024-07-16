@@ -93,8 +93,8 @@ The data highlights several important aspects of customer behavior and demograph
 
 
 **Skills and Tools:**
-**POWER BI :** Utilized advanced Power BI features such as Power Query, DAX Queries, Data Modeling, Dynamic Charts,Tables, Slicers and Buttons etc. 
+**- POWER BI :** Utilized advanced Power BI features such as Power Query, DAX Queries, Data Modeling, Dynamic Charts,Tables, Slicers and Buttons etc. 
                Enhanced my data visualization skills to create clear and impactful charts, graphs and Dashboards.
-**PowerPoint :** Used Power Point for graphics and visual elements, helping craft a clear and professional presentation.
-**Canva :** Used for designing certain elements the overall design of presentation.
-**Chatgpt :** Assisted in generating content and refining the narrative for the project documentation.
+**- PowerPoint :** Used Power Point for graphics and visual elements, helping craft a clear and professional presentation.
+**- Canva :** Used for designing certain elements the overall design of presentation.
+**- Chatgpt :** Assisted in generating content and refining the narrative for the project documentation.
