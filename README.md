@@ -34,10 +34,7 @@ By understanding these insights, businesses can tailor their strategies to bette
     Other categories: Smaller groups (Divorced, Widow, Absurd, YOLO)
 
 
-
-    ![customer overview](https://github.com/user-attachments/assets/e97ec671-6cdb-4d4b-b899-c3506a06736f)
-
-  
+ 
 
 **Page 2: Product Metrics**
    
